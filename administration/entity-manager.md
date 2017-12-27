@@ -7,6 +7,8 @@ Entity Manager is available in Administration panel. It provides an ability to h
 * Configure fields: add new, customize existing ones.
 * Configure relationships: add new, change labels of existing ones.
 
+ddd
+
 ## Creating new entity
 
 Click `Create Entity` button on Entity Manager page. Specify name, labels and type. If you select `Person` type, your entity will have Email, Phone, First Name, Last Name and Salutation fields. Check `Stream` if you want your entity to have stream panel and users to be able to Follow entities of this type.
